@@ -1,10 +1,10 @@
 {
-  "name": "bs4starter",
+  "name": "textRaleigh",
   "version": "1.0.0",
-  "description": "Bootstrap 4 workflow",
+  "description": "textRaleigh Stuff",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "run"
   },
   "author": "Riddick",
   "license": "MIT",
